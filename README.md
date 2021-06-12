@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi Colleagues 👋
+## About Me 📌
+ I'm begginer Python🐍 developer. 18y Live in Moscow, Russia. Every day I learn smth new 
 
-<!--
-**JustLike420/justlike420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Contact Me 📫
+Discord: [**Just_Like#0206**](https://www.discord.gg)  
+Telegram: [**@zxcti4kapauza**](https://telegram.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Special thanks ❤️
+- [DJWOMS](https://github.com/DJWOMS) - for helping with django
+- [RusAl84](https://github.com/RusAl84) - for motivation
+### Languages and Tools 📒
+![Python](https://img.shields.io/badge/-Python-&?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Django-&?style=for-the-badge&logo=django&logoColor=black)
+![Python](https://img.shields.io/badge/-postgresql-&?style=for-the-badge&logo=postgresql)
