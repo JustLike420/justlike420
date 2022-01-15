@@ -5,7 +5,7 @@
 
 ### Contact Me 📫
 Discord: [**Just_Like#0206**](https://www.discord.gg)  
-Telegram: [**@zxcti4kapauza**](https://telegram.org)
+Telegram: [**@Squishy666**](https://telegram.org)
 
 ### Special thanks ❤️
 - [DJWOMS](https://github.com/DJWOMS) - for helping with django
