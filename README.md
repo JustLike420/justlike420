@@ -1,6 +1,6 @@
 # Hi Colleagues 👋
 ## About Me 📌
- I'm begginer Python🐍 developer. 18y Live in Moscow, Russia. Every day I learn smth new 
+ I'm begginer Python🐍 developer. 19y Live in Moscow, Russia. Every day I learn smth new 
 
 
 ### Contact Me 📫
@@ -12,5 +12,5 @@ Telegram: [**@Squishy666**](https://telegram.org)
 - [RusAl84](https://github.com/RusAl84) - for motivation
 ### Languages and Tools 📒
 ![Python](https://img.shields.io/badge/-Python-&?style=for-the-badge&logo=python)
-![Python](https://img.shields.io/badge/-Django-&?style=for-the-badge&logo=django&logoColor=black)
-![Python](https://img.shields.io/badge/-postgresql-&?style=for-the-badge&logo=postgresql)
+![Django](https://img.shields.io/badge/-Django-&?style=for-the-badge&logo=django&logoColor=black)
+![postgresql](https://img.shields.io/badge/-postgresql-&?style=for-the-badge&logo=postgresql)
