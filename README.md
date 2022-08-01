@@ -7,10 +7,9 @@ I'm Russia student.
 
 
 <div align="">
-<img align="right" height=250 width=350 src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966'>
+<img align="right" height=400 width=600 src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966'>
 <h2>Technology stack</h2>
 
----
 <h3>Back-end</h3>
 
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python">
@@ -21,31 +20,36 @@ I'm Russia student.
  
 
 
- <h3>DataBases</h3>
+<h3>DataBases</h3>
 <img src="https://img.shields.io/badge/-Postgresql-%232c3e50?style=for-the-badge&logo=Postgresql">
 <img src="https://img.shields.io/badge/-MSSQL-gray?style=for-the-badge&logo=Microsoft SQL Server">
 
- ---
-<img src="https://img.shields.io/badge/-Selenium-gray?style=for-the-badge&logo=Selenium">
+<h3>Python Modules</h3>
+<img src="https://img.shields.io/badge/-Selenium-grey?style=for-the-badge&logo=Selenium">
 
-<img src="https://img.shields.io/badge/-BeautifulSoup4-gray?style=for-the-badge">
+<img src="https://img.shields.io/badge/-BeautifulSoup4-yellow?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/-AIOgram-gray?style=for-the-badge">
+<img src="https://img.shields.io/badge/-AIOgram-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/-AIOHTTP-gray?style=for-the-badge">
+<img src="https://img.shields.io/badge/-AIOHTTP-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/-ASYNCIO-gray?style=for-the-badge">
+<img src="https://img.shields.io/badge/-ASYNCIO-blue?style=for-the-badge">
 
+<h3>Tools</h3>
+<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github">
 
-<img src="https://img.shields.io/badge/-Github-gray?style=for-the-badge&logo=Github">
-
+<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git">
 
 <img src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white">
+<details>	
+ <summary><b>Linux</b></summary>
+<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux">
+<img src="https://img.shields.io/badge/-Kali-black?style=for-the-badge&logo=Kali Linux">
+<img src="https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu">
+<img src="https://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=Debian">
+ </details>	
 
 
- <img src="https://img.shields.io/badge/-postgresql-&?style=for-the-badge&logo=postgresql&logoColor=black&color=blueviolet">
-<img src="https://img.shields.io/badge/-git-&?style=for-the-badge&logo=git&logoColor=black&color=blueviolet">
-<img src="https://img.shields.io/badge/-linux-&?style=for-the-badge&logo=linux&logoColor=black&color=blueviolet">
  <details>	
   <summary><b>GitHub Stats</b></summary>
 <div align="center">
@@ -55,10 +59,8 @@ I'm Russia student.
  </div>
   </details>	
  
- 
- <div align="center">
-<h3>Special thanks ❤️</h3>
+ <details>	
+  <summary><b>Special thanks ❤️</b></summary>
 <a href="https://github.com/DJWOMS">DJWOMS</a> - for helping with django<br>
 <a href="https://github.com/RusAl84">RusAl84</a> - for motivation
- 
-</div>
+</details>
