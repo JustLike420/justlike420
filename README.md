@@ -48,7 +48,7 @@
  <div align="">
 
 ![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=justlike420&theme=jolly&show_icons=true&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JustLike420&theme=jolly&hide_border=true&card_width=467)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JustLike420&theme=jolly&hide_border=true)](https://git.io/streak-stats)
 </div>
 <div align="center">
 
