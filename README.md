@@ -47,9 +47,19 @@
  </details>	
  <div align="">
 
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=justlike420&theme=jolly&show_icons=true&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JustLike420&theme=jolly&hide_border=true)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <a>
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=justlike420&theme=jolly&show_icons=true&hide_border=true"/>
+    </a>
+  <a>
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=JustLike420&theme=jolly&hide_border=true"/>
+    </a>
+</p>
+   
 <div align="center">
 
 ![](https://profile-counter.glitch.me/%7BJustLike420%7D/count.svg)
